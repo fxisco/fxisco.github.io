@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Francisco Payés</title>
-    <link>http://www.example.com/categories/</link>
+    <link>fxisco.github.io/cv/categories/</link>
     <description>Recent content in Categories on Francisco Payés</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="fxisco.github.io/cv/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
