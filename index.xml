@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francisco Payés</title>
-    <link>fxisco.github.io/</link>
+    <link>https://fxisco.github.io/</link>
     <description>Recent content on Francisco Payés</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="fxisco.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fxisco.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
