@@ -10,5 +10,17 @@
 	<atom:link href="https://fxisco.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Portofolio</title>
+      <link>https://fxisco.github.io/portofolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fxisco.github.io/portofolio/</guid>
+      <description> Text translator Live demo | Github Repository
+Web tool to convert text into three possible formats: HEX, OCT and ASCII. Also it allows you to copy and paste values with just a simple click.
+Technologies used:
+ Svelte HTML CSS  </description>
+    </item>
+    
   </channel>
 </rss>
