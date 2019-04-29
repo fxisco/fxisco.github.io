@@ -14,11 +14,16 @@
   
   <url>
     <loc>https://fxisco.github.io/portofolio/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fxisco.github.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fxisco.github.io/portofolio/text-translator/</loc>
   </url>
   
 </urlset>
