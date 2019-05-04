@@ -11,12 +11,12 @@
     
     
     <item>
-      <title>Text Translator</title>
-      <link>https://fxisco.github.io/portofolio/text-translator/</link>
+      <title>Text Converter</title>
+      <link>https://fxisco.github.io/portofolio/text-converter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fxisco.github.io/portofolio/text-translator/</guid>
-      <description> Text translator Live demo | Github Repository
+      <guid>https://fxisco.github.io/portofolio/text-converter/</guid>
+      <description> Text converter Live demo | Github Repository
 Web tool to convert text into three possible formats: HEX, OCT and ASCII. Also it allows you to copy and paste values with just a simple click.
 Technologies used:
  Svelte HTML CSS  </description>
