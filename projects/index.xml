@@ -11,6 +11,18 @@
     
     
     <item>
+      <title>Dominican Presidents Timeline</title>
+      <link>https://fxisco.github.io/projects/dominican-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fxisco.github.io/projects/dominican-history/</guid>
+      <description>Live demo | Github Repository
+Web page dedicated to Dominican Republic presidents. Here we can see information about the eras and presidentes through domincan history.
+Technologies used:
+ React HTML materializecss Timeline.js  </description>
+    </item>
+    
+    <item>
       <title>Text Converter</title>
       <link>https://fxisco.github.io/projects/text-converter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
